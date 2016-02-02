@@ -1,2 +1,1 @@
-# learngitprocedures
-learn git procedure
+change read me
